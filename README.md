@@ -4,7 +4,7 @@
 # 💬 Ask me about 
 **I'm Sabarish Sudalaimuthu, a DevOps Engineer who is passionate about automation, continuous integration, and deployment. With substantial hands-on expertise in DevOps and Cloud Computing, I am fluent in a variety of tools and technologies related to infrastructure automation, containerization, cloud platforms, monitoring and logging, and continuous integration and delivery (CI/CD). My ultimate goal is to help enterprises achieve faster, more efficient software delivery while maintaining high levels of quality and dependability. My collaborative and inventive approach to DevOps is based on collaboration and experimentation to achieve success. I am constantly looking to broaden my abilities and keep up with the newest breakthroughs in DevOps and Cloud computing, and I want to create unique solutions that propel businesses forward.**
 
-<img align="right" alt="Coding" width="400" src="https://github.com/sabarishOfficial/Sabarish-Sudalaimuthu/blob/main/githubgif.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/sabarishOfficial/sabarishOfficial/blob/main/assets/githubgif.gif)">
 
   # 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 - 🖥️ Operating System: Windows & Linux Administration
